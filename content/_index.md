@@ -8,6 +8,17 @@ sections:
   id: about
 - block: collection
   content:
+    filters:
+      featured_only: true
+      folders:
+      - publication
+    title: Recent Publications
+  design:
+    columns: "2"
+    view: card
+  id: featured
+- block: collection
+  content:
     count: 5
     filters:
       author: ""
@@ -28,17 +39,6 @@ sections:
     columns: "2"
     view: compact
   id: posts
-- block: collection
-  content:
-    filters:
-      featured_only: true
-      folders:
-      - publication
-    title: Featured Publications
-  design:
-    columns: "2"
-    view: card
-  id: featured
 - block: collection
   content:
     filters:
