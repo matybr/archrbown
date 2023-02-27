@@ -16,3 +16,4 @@ title: This is JUST a test
 
 
 ## This is *just* a test
+I am still confused why the dog photo is here though :)
