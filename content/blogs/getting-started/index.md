@@ -7,7 +7,7 @@ draft: false
 featured: false
 image:
 lastmod:
-projects: []
+projects: 
 subtitle: "Testing blog on new site"
 summary: "Testing blog on new site"
 tags:

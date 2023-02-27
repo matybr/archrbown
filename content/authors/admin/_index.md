@@ -62,3 +62,4 @@ highlight_name: true
 
 Matthew is a Ph.D. Candidate in Anthropology at the University of Michigan. 
 {style="text-align: justify;"}
+<img src="/authors/admin/_index_files/DJI_0334 (Small).JPG" alt="" width="600px" height="300px"/>
